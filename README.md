@@ -1,7 +1,8 @@
 # Graph Visualizer – Graphs Algorithms using Java Swing
 
-This project is an **interactive graph algorithms visualizer**, developed in **Java with Swing**.  
+This project is an **interactive graph algorithms visualizer*, developed in **Java with Swing**.  
 It allows users to manually create graphs, add edges with custom weights, and visualize classic algorithms such as **BFS**, **DFS**, and **Dijkstra** in real-time, with animations and path highlighting.
+
 ---
 
 ## Features
