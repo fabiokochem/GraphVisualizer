@@ -33,6 +33,7 @@ It allows users to manually create graphs, add edges with custom weights, and vi
 On terminal, execute:
 
 ```bash
+chmod +x compile.sh
 ./compile.sh
 ```
 
@@ -41,5 +42,8 @@ This will compile all .java archives of the project
 After compiling, execute the program with:
 
 ```bash
+chmod +x run.sh
 ./run.sh
 ```
+
+Have fun!!!
