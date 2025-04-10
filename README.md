@@ -30,8 +30,16 @@ It allows users to manually create graphs, add edges with custom weights, and vi
 - Java 17 or higher
 
 ### 📦 Compile and Run
+On terminal, execute:
+
 ```bash
-javac Main.java
-java Main
+./compile.sh
 ```
 
+This will compile all .java archives of the project
+
+After compiling, execute the program with:
+
+```bash
+./run.sh
+```

@@ -4,8 +4,7 @@ import graph.*;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.Random;
-import algorithms.BFS;
+import algorithms.*;
 
 public class GraphPanel extends JPanel {
     private final Graph graph = new Graph();

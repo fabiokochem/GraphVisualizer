@@ -7,6 +7,8 @@ import utils.Sleep;
 import javax.swing.*;
 import java.awt.*;
 import java.util.*;
+import java.util.List;
+
 
 public class BFS {
     private final Graph graph;

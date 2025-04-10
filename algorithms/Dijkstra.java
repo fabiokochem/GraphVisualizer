@@ -1,6 +1,5 @@
 package algorithms;
 
-import graph.Edge;
 import graph.Graph;
 import graph.Node;
 import utils.Sleep;
@@ -8,6 +7,7 @@ import utils.Sleep;
 import javax.swing.*;
 import java.awt.*;
 import java.util.*;
+import java.util.List;
 
 public class Dijkstra {
     private final Graph graph;

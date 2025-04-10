@@ -1,10 +1,7 @@
 package ui;
 
-import graph.Graph;
-
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionListener;
 
 public class ControlPanel extends JPanel {
     public ControlPanel(GraphPanel graphPanel) {
